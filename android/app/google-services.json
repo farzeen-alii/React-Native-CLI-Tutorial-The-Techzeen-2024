@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268513089376",
+    "project_id": "rnfirebase-ea23b",
+    "storage_bucket": "rnfirebase-ea23b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268513089376:android:95ba0d0c8206bc2152f005",
+        "android_client_info": {
+          "package_name": "com.reactnativetutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqJnsb6LajGsa6KSQ0GLxTvDlGKt1WCdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
